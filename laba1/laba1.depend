@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676632490 source:c:\labic\laba1\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1676627984 source:c:\labic\laba1\laba1.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

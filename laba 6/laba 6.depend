@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679119199 source:c:\labic\laba 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
